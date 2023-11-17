@@ -1,0 +1,14 @@
+C:\Users\SD387779\Training\c#\Train\training_fourteen_nov\training_fourteen_nov\obj\Debug\net6.0\training_fourteen_nov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SD387779\Training\c#\Train\training_fourteen_nov\training_fourteen_nov\obj\Debug\net6.0\training_fourteen_nov.AssemblyInfoInputs.cache
+C:\Users\SD387779\Training\c#\Train\training_fourteen_nov\training_fourteen_nov\obj\Debug\net6.0\training_fourteen_nov.AssemblyInfo.cs
+C:\Users\SD387779\Training\c#\Train\training_fourteen_nov\training_fourteen_nov\obj\Debug\net6.0\training_fourteen_nov.csproj.CoreCompileInputs.cache
+C:\Users\SD387779\Training\c#\Train\training_fourteen_nov\training_fourteen_nov\bin\Debug\net6.0\training_fourteen_nov.exe
+C:\Users\SD387779\Training\c#\Train\training_fourteen_nov\training_fourteen_nov\bin\Debug\net6.0\training_fourteen_nov.deps.json
+C:\Users\SD387779\Training\c#\Train\training_fourteen_nov\training_fourteen_nov\bin\Debug\net6.0\training_fourteen_nov.runtimeconfig.json
+C:\Users\SD387779\Training\c#\Train\training_fourteen_nov\training_fourteen_nov\bin\Debug\net6.0\training_fourteen_nov.dll
+C:\Users\SD387779\Training\c#\Train\training_fourteen_nov\training_fourteen_nov\bin\Debug\net6.0\training_fourteen_nov.pdb
+C:\Users\SD387779\Training\c#\Train\training_fourteen_nov\training_fourteen_nov\obj\Debug\net6.0\training_fourteen_nov.dll
+C:\Users\SD387779\Training\c#\Train\training_fourteen_nov\training_fourteen_nov\obj\Debug\net6.0\refint\training_fourteen_nov.dll
+C:\Users\SD387779\Training\c#\Train\training_fourteen_nov\training_fourteen_nov\obj\Debug\net6.0\training_fourteen_nov.pdb
+C:\Users\SD387779\Training\c#\Train\training_fourteen_nov\training_fourteen_nov\obj\Debug\net6.0\training_fourteen_nov.genruntimeconfig.cache
+C:\Users\SD387779\Training\c#\Train\training_fourteen_nov\training_fourteen_nov\obj\Debug\net6.0\ref\training_fourteen_nov.dll

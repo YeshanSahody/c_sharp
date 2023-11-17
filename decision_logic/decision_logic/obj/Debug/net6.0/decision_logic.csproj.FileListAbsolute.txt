@@ -1,0 +1,14 @@
+C:\Users\SD387779\Training\c#\decision_logic\decision_logic\bin\Debug\net6.0\decision_logic.exe
+C:\Users\SD387779\Training\c#\decision_logic\decision_logic\bin\Debug\net6.0\decision_logic.deps.json
+C:\Users\SD387779\Training\c#\decision_logic\decision_logic\bin\Debug\net6.0\decision_logic.runtimeconfig.json
+C:\Users\SD387779\Training\c#\decision_logic\decision_logic\bin\Debug\net6.0\decision_logic.dll
+C:\Users\SD387779\Training\c#\decision_logic\decision_logic\bin\Debug\net6.0\decision_logic.pdb
+C:\Users\SD387779\Training\c#\decision_logic\decision_logic\obj\Debug\net6.0\decision_logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SD387779\Training\c#\decision_logic\decision_logic\obj\Debug\net6.0\decision_logic.AssemblyInfoInputs.cache
+C:\Users\SD387779\Training\c#\decision_logic\decision_logic\obj\Debug\net6.0\decision_logic.AssemblyInfo.cs
+C:\Users\SD387779\Training\c#\decision_logic\decision_logic\obj\Debug\net6.0\decision_logic.csproj.CoreCompileInputs.cache
+C:\Users\SD387779\Training\c#\decision_logic\decision_logic\obj\Debug\net6.0\decision_logic.dll
+C:\Users\SD387779\Training\c#\decision_logic\decision_logic\obj\Debug\net6.0\refint\decision_logic.dll
+C:\Users\SD387779\Training\c#\decision_logic\decision_logic\obj\Debug\net6.0\decision_logic.pdb
+C:\Users\SD387779\Training\c#\decision_logic\decision_logic\obj\Debug\net6.0\decision_logic.genruntimeconfig.cache
+C:\Users\SD387779\Training\c#\decision_logic\decision_logic\obj\Debug\net6.0\ref\decision_logic.dll

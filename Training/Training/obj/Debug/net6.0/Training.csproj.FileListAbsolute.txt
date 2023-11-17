@@ -1,0 +1,9 @@
+C:\Users\SD387779\Training\c#\Training\Training\bin\Debug\net6.0\Training.exe
+C:\Users\SD387779\Training\c#\Training\Training\bin\Debug\net6.0\Training.dll
+C:\Users\SD387779\Training\c#\Training\Training\obj\Debug\net6.0\Training.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SD387779\Training\c#\Training\Training\obj\Debug\net6.0\Training.AssemblyInfoInputs.cache
+C:\Users\SD387779\Training\c#\Training\Training\obj\Debug\net6.0\Training.AssemblyInfo.cs
+C:\Users\SD387779\Training\c#\Training\Training\obj\Debug\net6.0\Training.csproj.CoreCompileInputs.cache
+C:\Users\SD387779\Training\c#\Training\Training\obj\Debug\net6.0\Training.dll
+C:\Users\SD387779\Training\c#\Training\Training\obj\Debug\net6.0\refint\Training.dll
+C:\Users\SD387779\Training\c#\Training\Training\obj\Debug\net6.0\Training.pdb
